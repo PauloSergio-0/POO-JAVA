@@ -6,7 +6,7 @@ public class Almoxarifado {
         System.out.println("Atualizando sistema de estoque");
     }
 
-    void trocarGas(String funcionario){
+    void trocarGas(String funcionario){//Só esta permitida usar para as classes nesse pacote
         System.out.println(funcionario+ " está trocando gás");
     }
 

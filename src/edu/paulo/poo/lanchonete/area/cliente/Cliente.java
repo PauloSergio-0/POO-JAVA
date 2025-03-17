@@ -2,7 +2,7 @@ package edu.paulo.poo.lanchonete.area.cliente;
 
 public class Cliente {
 
-    private void chamarAtendente(){
+    private void chamarAtendente(){ // acessivel apenas na classe Cliente
         System.out.println("Chamando atendente");
     }
 
